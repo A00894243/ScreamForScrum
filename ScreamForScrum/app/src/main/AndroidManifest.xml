@@ -22,7 +22,9 @@
             android:name=".NewBoardActivity"
             android:label="@string/title_activity_new_board"
             android:theme="@style/AppTheme.NoActionBar" />
-        <activity android:name=".PostItActivity"></activity>
+        <activity android:name=".PostItActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+        </activity>
     </application>
 
 </manifest>
