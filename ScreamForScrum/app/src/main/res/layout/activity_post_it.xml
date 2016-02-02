@@ -16,9 +16,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:background="@color/lightblue"
-        android:padding="10dp">
-=======
-    tools:context="example.myapplication1.DisplayActivity">
+        android:padding="10dp"/>
 
     <TextView
         android:layout_width="wrap_content"
@@ -38,7 +36,6 @@
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="175dp"
         android:background="@color/postIt">
->>>>>>> 3e750c1b7246429de55cac6fb35d4b9e1f3d825a
 
         <TableLayout
             android:layout_width="match_parent"
