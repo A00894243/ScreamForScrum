@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:fitsSystemWindows="true"
-    tools:context="a00906165.screamforscrum.MainActivity">
+    tools:context="a00906165.screamforscrum.NewBoardActivity">
 
     <android.support.design.widget.AppBarLayout
         android:layout_width="match_parent"
@@ -21,7 +21,7 @@
 
     </android.support.design.widget.AppBarLayout>
 
-    <include layout="@layout/content_main" />
+    <include layout="@layout/content_new_board" />
 
     <android.support.design.widget.FloatingActionButton
         android:id="@+id/fab"
@@ -30,8 +30,7 @@
         android:layout_gravity="bottom|end"
         android:layout_margin="@dimen/fab_margin"
         android:src="@android:drawable/ic_input_add"
-        android:tint="#ffffff"
-        android:visibility="visible"
-        app:backgroundTint="#c93838" />
+        app:backgroundTint="#e54141"
+        android:tint="#ffffff" />
 
 </android.support.design.widget.CoordinatorLayout>
