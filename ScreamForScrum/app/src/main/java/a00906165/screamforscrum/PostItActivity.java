@@ -3,11 +3,11 @@ package a00906165.screamforscrum;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class Display extends AppCompatActivity {
+public class PostItActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_display);
+        setContentView(R.layout.activity_post_it);
     }
 }

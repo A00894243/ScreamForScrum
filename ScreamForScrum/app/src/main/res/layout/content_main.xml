@@ -10,15 +10,17 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
     tools:context="a00906165.screamforscrum.MainActivity"
-    tools:showIn="@layout/activity_main">
+    tools:showIn="@layout/activity_main"
+    android:background="#659cbf">
 
     <Button
-        android:layout_width="200dp"
-        android:layout_height="200dp"
+        android:layout_width="220dp"
+        android:layout_height="220dp"
         android:text="Previous Project"
         android:id="@+id/button"
-        android:layout_marginTop="15dp"
-        android:layout_centerHorizontal="true" />
+        android:layout_marginTop="45dp"
+        android:layout_centerHorizontal="true"
+        android:background="#e4d591" />
 
     <Button
         style="?android:attr/buttonStyleSmall"
@@ -31,5 +33,7 @@
         android:layout_alignRight="@+id/button"
         android:layout_alignEnd="@+id/button"
         android:layout_alignLeft="@+id/button"
-        android:layout_alignStart="@+id/button" />
+        android:layout_alignStart="@+id/button"
+        android:background="#81d0e1" />
+
 </RelativeLayout>
