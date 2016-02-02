@@ -8,13 +8,13 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="a00906165.screamforscrum.PostItActivity"
-    android:background="#659cbf">
+    android:background="@color/backblue">
 
 
     <TableLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:background="#8eacc0"
+        android:background="@color/lightblue"
         android:padding="10dp">
 
         <TableRow

@@ -20,7 +20,7 @@
         android:id="@+id/button"
         android:layout_marginTop="45dp"
         android:layout_centerHorizontal="true"
-        android:background="#e4d591" />
+        android:background="@color/postIt" />
 
     <Button
         style="?android:attr/buttonStyleSmall"
@@ -34,6 +34,6 @@
         android:layout_alignEnd="@+id/button"
         android:layout_alignLeft="@+id/button"
         android:layout_alignStart="@+id/button"
-        android:background="#81d0e1" />
+        android:background="@color/buttonblue" />
 
 </RelativeLayout>

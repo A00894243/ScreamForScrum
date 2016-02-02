@@ -11,7 +11,7 @@
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
     tools:context="a00906165.screamforscrum.NewBoardActivity"
     tools:showIn="@layout/activity_new_board"
-    android:background="#659cbf">
+    android:background="@color/backblue">
 
 
     <TextView
@@ -42,7 +42,7 @@
         android:layout_marginLeft="50dp"
         android:layout_marginRight="50dp"
         style="@style/Base.TextAppearance.AppCompat.Headline"
-        android:background="#325062"
+        android:background="@color/buttonblue"
         android:textColor="#ffffff"
         />
 
@@ -66,7 +66,7 @@
         android:layout_marginLeft="50dp"
         android:layout_marginRight="50dp"
         style="@style/Base.TextAppearance.AppCompat.Headline"
-        android:background="#FF325062"
+        android:background="@color/buttonblue"
         android:textColor="#ffffff" />
 
 
