@@ -3,4 +3,11 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+<<<<<<< HEAD
+    <color name="backblue">#659cbf</color>
+    <color name="buttonblue">#325062</color>
+    <color name="lightblue">#8eacc0</color>
+=======
+    <color name="postIt">#FFFFA5</color>
+>>>>>>> 3e750c1b7246429de55cac6fb35d4b9e1f3d825a
 </resources>
